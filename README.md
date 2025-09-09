@@ -86,6 +86,7 @@ Top 10 Customers by Spending:
 <img width="859" height="513" alt="image" src="https://github.com/user-attachments/assets/e3446a66-8d66-4355-8370-fa8c5dcc07dc" />
 
 Correlation Heatmap:
+
 <img width="486" height="374" alt="image" src="https://github.com/user-attachments/assets/47b7aab9-fc8a-4979-90a5-fabd3718ab6f" />
 
 clustering:
