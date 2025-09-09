@@ -79,6 +79,10 @@ README.md
 🖥️ Gradio
 
 ☁️ Hugging Face Spaces
+
+
+visualizations:
+
 Skewness:
 <img width="1246" height="701" alt="image" src="https://github.com/user-attachments/assets/a01393cf-127a-4563-9c06-b04815501f68" />
 
@@ -104,9 +108,6 @@ Elbow method for DBscan:
 <img width="565" height="455" alt="image" src="https://github.com/user-attachments/assets/4a1f0e99-abe9-4f5e-b5bd-25e0edf70a93" />
 
 
-
-
-visualizations:
 
 
 📸 Demo Screenshot
