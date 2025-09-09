@@ -79,7 +79,33 @@ README.md
 🖥️ Gradio
 
 ☁️ Hugging Face Spaces
+Skewness:
+<img width="1246" height="701" alt="image" src="https://github.com/user-attachments/assets/a01393cf-127a-4563-9c06-b04815501f68" />
 
+Top 10 Customers by Spending:
+<img width="859" height="513" alt="image" src="https://github.com/user-attachments/assets/e3446a66-8d66-4355-8370-fa8c5dcc07dc" />
+
+Correlation Heatmap:
+<img width="486" height="374" alt="image" src="https://github.com/user-attachments/assets/47b7aab9-fc8a-4979-90a5-fabd3718ab6f" />
+
+clustering:
+<img width="1790" height="490" alt="image" src="https://github.com/user-attachments/assets/0c82c354-30a2-4574-9709-7ee3bee16e93" />
+
+
+Elbow method for kmeans:
+<img width="1023" height="470" alt="image" src="https://github.com/user-attachments/assets/f733e9d8-7a99-461e-bae0-97d1cdce0a1f" />
+
+
+Elbow method for hierarical:
+<img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/16fde6bb-36ed-4851-ae76-90705d623385" />
+
+Elbow method for DBscan:
+<img width="565" height="455" alt="image" src="https://github.com/user-attachments/assets/4a1f0e99-abe9-4f5e-b5bd-25e0edf70a93" />
+
+
+
+
+visualizations:
 
 
 📸 Demo Screenshot
@@ -87,12 +113,6 @@ README.md
 <img width="1567" height="740" alt="Screenshot 2025-09-08 070002" src="https://github.com/user-attachments/assets/1e1b46ab-6532-46aa-9b7f-1ea0ca4b8181" />
 
 
-🤝 Contributing
-
-Pull requests are welcome! If you’d like to add new clustering methods or improve the UI, feel free to contribute.
 
 
 
-📜 License
-
-This project is licensed under the MIT License.
